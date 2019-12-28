@@ -1,0 +1,10 @@
+Class "Music instruments"
+	Attributes:
+name, country of origin, instrument group (wind instruments, electro-musical instruments,
+keyboards, stringed instruments, percussion instruments), type of register (high, medium, low),
+size, weight, height, color, case material (metal, wood, leather),
+instrument components (neck, deck, strings, keys, plates),
+the presence of holes (yes, no), the degree of opening (up, down),
+belonging to the orchestra (chamber, symphonic).
+	Methods:
+play, not play, sound, not sound, creak, whistle, roar, string vibrations, bloated sounds, filling bits.

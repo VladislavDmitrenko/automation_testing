@@ -1,0 +1,8 @@
+Class "Worker of company"
+	Attributes: 
+position, name, surname, gender (male, female, sales manager :)),
+age, work experience in years, degree of education, availability of relevant diplomas (true, false),
+number of relevant diplomas, material status, hobbies, personal skills.
+	Methods:
+count (accounter), sale (seller), create (developer), testing (QA Engineer), read (librarian), sleep (watchman),
+battle (warrior), cook, planning (analyst), sewing (sewer).

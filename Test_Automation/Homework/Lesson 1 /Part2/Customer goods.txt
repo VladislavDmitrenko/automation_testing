@@ -1,0 +1,11 @@
+Class "Customer goods"
+	Attributes: 
+Production date, shelf life of the product, country of origin, trademark (name, barcode, symbol, image, brand name),
+classification of goods (food, non-food), types of goods (FMCG, electronics, pastries, fruits and vegetables,
+confectionery, wine and spirits, soft drinks, milk, butter, meat and sausages, fish, eggs, edible fats, tobacco products,
+household goods and clothing, household chemicals, glass products, shoe products, metal products,
+construction materials), gross, net, height, weight, package size, package form, package color,
+ability to transport (fragile, not fragile, flammable).
+	Method :
+Eat well, don’t eat well, move / don’t move, play / don’t play toys, swim / don’t swim in the pool, open / close goods,
+drink / not drink, expand / wrap the package, wear cloth clothes, watch electronics products, listen to electronics products.

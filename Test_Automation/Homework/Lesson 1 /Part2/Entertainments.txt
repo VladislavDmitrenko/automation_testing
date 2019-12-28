@@ -1,0 +1,7 @@
+Class "Entertainments"
+	Attributes:
+name of entertainment, people, animals, inventory, money,
+types (celebration, not celebration), time (minutes, hours, day, month, year),
+territory (night club, house, stadium, etc.), Internet, device (if with people).
+	Methods:
+walk, dance, drive, swim, relax, jump, watch football, read books, run, shoot, shoot.

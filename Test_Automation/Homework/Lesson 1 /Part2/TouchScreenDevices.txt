@@ -1,0 +1,12 @@
+Class "Touch screen devices"
+	Attributes: 
+name, brand, device type, OS, processor, size,
+color, screen (size, resolution, matrix type) of RAM,
+camera (colors, main camera, front camera), signal (ringtones, vibrating alert),
+memory function.
+	Methods:
+call, send a message, make a sound,
+Internet connection, data storage,
+vibrate, create photos, edit photos, delete photos,
+Download applications, remove applications,
+find applications, change device settings

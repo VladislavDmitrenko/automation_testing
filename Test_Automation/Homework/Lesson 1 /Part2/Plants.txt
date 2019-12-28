@@ -1,0 +1,10 @@
+class Plants
+	Attribute:
+leaf, roots, bark, petal, seeds, fruits, plant variety (tree, bush, flower), pistils, stamens,
+leaf shape, place (water, earth, stone), toxic, medicinal, edible, name, culture, plant type
+(foliage, bloom, succulents, cacti), flowers, flowers, country, climate (tropics, subtropics),
+temperature, humidity, light, color.
+	Method:
+pollinate, bloom, grow old, grow, bear fruit, grow, change color, change shape,
+change the structure, take root, reproduce, smell, produce oxygen,
+consume carbon dioxide, plant, transplant, water, plant.

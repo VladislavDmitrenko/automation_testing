@@ -1,0 +1,10 @@
+Class “Appartments”
+	Attributes:
+rental price, number of rooms, floor, living area,
+availability of an elevator, bath, internet access,
+the presence of a balcony, one / two-level apartments, the presence of parking.
+	Methods:
+get and set a price by connecting to the Internet, choose the number of roms
+select a floor, select an apartment with an elevator, select a living space,
+choose an apartment with a balcony, rent a two-level apartment, rent
+apartment with parking.
