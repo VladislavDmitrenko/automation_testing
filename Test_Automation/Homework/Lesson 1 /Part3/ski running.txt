@@ -1,0 +1,7 @@
+Class “SkiRunning”
+
+	Attributes: 
+Name of ski resort, availability of ski rental, availability of chair lift.
+
+	Methods: 
+Get the name of the ski resort, get a rental.

@@ -1,0 +1,7 @@
+Class “guitar”
+
+	Attributes: 
+The number of strings, the number of frets, the presence of floydroza.
+
+	Methods: 
+Set the number of strings, get the number of frets.

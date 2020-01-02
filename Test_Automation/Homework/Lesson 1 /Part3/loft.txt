@@ -1,0 +1,7 @@
+Class “Loft”
+
+	Attributes: 
+The presence of a kitchen, ceiling height, the presence of a shower.
+
+	Methods: 
+Clean the attic with the kitchen, get the height of the ceiling.

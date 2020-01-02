@@ -1,0 +1,8 @@
+ Class “Engineer”
+
+	Attributes: 
+Employed owner or employee, line of work (line), number of subordinates.
+
+
+	Methods: 
+Get owner and referral.

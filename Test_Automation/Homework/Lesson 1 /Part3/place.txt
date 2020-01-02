@@ -1,0 +1,7 @@
+Class “place”
+
+	Attributes: 
+The presence of a garage, the presence of a pool, the presence of a garden.
+
+	Methods: 
+Put the car in the garage, get a pool.

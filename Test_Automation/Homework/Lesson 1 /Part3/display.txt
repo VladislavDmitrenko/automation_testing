@@ -1,0 +1,7 @@
+Class “display”
+
+	Attributes: 
+manufacturer, model, energy saving mode.
+
+	Methods: 
+Get the manufacturer, get an affordable energy saving mode.

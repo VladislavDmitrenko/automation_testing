@@ -1,0 +1,7 @@
+Class “accordion”
+
+	Attributes: 
+Firm, tonality, color.
+
+	Methods: 
+Establish a company, get tonality.

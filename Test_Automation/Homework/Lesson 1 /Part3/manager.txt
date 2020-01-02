@@ -1,0 +1,8 @@
+ Class “Manager”
+
+	Attributes: 
+Specialization, category, type of employment.
+
+
+	Methods: 
+Get specialization and category.

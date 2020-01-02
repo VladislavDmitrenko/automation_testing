@@ -1,0 +1,7 @@
+Class “HomeCinema”
+
+	Attributes: 
+Genre, full meter or short film, the presence of 3D technology.
+
+	Methods: 
+Get a movie genre, get viewing technology.

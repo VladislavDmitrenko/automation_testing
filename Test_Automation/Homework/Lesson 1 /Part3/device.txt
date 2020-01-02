@@ -1,0 +1,7 @@
+Class “Device”
+
+	Attributes: 
+Manufacturer, capacity, battery operated.
+
+	Methods: 
+Get manufacturer and power.

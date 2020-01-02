@@ -1,0 +1,7 @@
+Class “Piano”
+
+	Attributes: 
+Electronic or acoustic, body material, manufacturer.
+
+	Methods: 
+Set the body material, get the type of piano.

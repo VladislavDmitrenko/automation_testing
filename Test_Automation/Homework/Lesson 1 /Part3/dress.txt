@@ -1,0 +1,7 @@
+Class “dress”
+
+	Attributes: 
+Sportswear, roadwear, color.
+
+	Methods: 
+get the type of clothes.

@@ -1,0 +1,7 @@
+Class “gaming sites”
+
+	Attributes: 
+Web address, type of content, free content.
+
+	Methods: 
+Get web address, get content type.

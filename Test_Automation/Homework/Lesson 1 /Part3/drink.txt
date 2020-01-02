@@ -1,0 +1,7 @@
+Class “drink”
+
+	Attributes:
+Volume, alcoholic soft drinks, manufacturer.
+
+	Methods: 
+Get volume, get alcoholic or non-alcoholic drinks.

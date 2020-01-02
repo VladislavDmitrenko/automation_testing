@@ -1,0 +1,8 @@
+Class “game”
+
+	Attributes: 
+the name of the game, the presence of interactive functions,
+entertainment.
+
+	Methods: 
+Get the name of the game, get interactively.

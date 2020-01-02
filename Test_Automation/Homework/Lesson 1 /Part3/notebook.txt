@@ -1,0 +1,7 @@
+Class “notebook”
+
+	Attributes: 
+Manufacturer, type of operating system, GPS navigation.
+
+	Methods: 
+Get the manufacturer, get the type of operating system.

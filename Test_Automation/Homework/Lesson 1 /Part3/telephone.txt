@@ -1,0 +1,7 @@
+Class “telephone”
+
+	Attributes: 
+manufacturer, network type, the ability to increase external memory.
+
+	Methods: 
+Get the manufacturer, get the type of network.

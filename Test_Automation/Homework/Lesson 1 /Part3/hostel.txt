@@ -1,0 +1,7 @@
+Class “hostel”
+
+	Attributes: 
+The number of stars, the presence of a TV, the presence of dinner.
+
+	Methods: 
+Аccess wi-fi, get tv accessibility.

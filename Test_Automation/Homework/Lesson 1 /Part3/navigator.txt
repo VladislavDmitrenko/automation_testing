@@ -1,0 +1,7 @@
+Class “navigator”
+
+	Attributes: 
+Manufacturer, model, availability of a card in the kit.
+
+	Methods: 
+Get the manufacturer, get the card completed.

@@ -1,0 +1,7 @@
+Class “room”
+
+	Attributes: 
+The presence of a terrace, the presence of a utility room, address.
+
+	Methods: 
+Open the utility room, exit to the terrace.

@@ -1,0 +1,8 @@
+ Class “Tester”
+
+	Attributes: 
+Company name, knowledge of automation, level.
+
+
+	Methods: 
+Gain knowledge of the availability of automation and level.

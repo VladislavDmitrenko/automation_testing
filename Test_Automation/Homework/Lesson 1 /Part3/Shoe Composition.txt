@@ -1,0 +1,7 @@
+Class “ShoeComposition”
+
+	Attributes: 
+Volume composition in the number of pairs, composition in the store, number of employees
+
+	Methods: 
+Get the number of pairs, get in the store.
